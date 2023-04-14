@@ -1,0 +1,15 @@
+
+residual netwotks
+
+alexnet 
+
+NETRES
+
+
+inception ( googlenet )
+
+yolo 
+
+recurrent neural networks ( RNN )
+
+
